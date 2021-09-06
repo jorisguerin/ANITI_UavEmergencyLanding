@@ -2,7 +2,7 @@
 
 ## Supplementary material
 
-* Full results can be found [here](https://github.com/jorisguerin/ANITI_UavEmergencyLanding/blob/main/Supplementary/full_results.csv).
+* Full results can be found [here](https://github.com/jorisguerin/ANITI_UavEmergencyLanding/blob/gh-pages/Supplementary/full_results.csv).
 
 ## 
 ## Contact
