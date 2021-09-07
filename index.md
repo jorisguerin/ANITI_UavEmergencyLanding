@@ -1,7 +1,8 @@
 ![Overview of the proposed approach](Images/overview_icra.png "Overview of the proposed approach")
 
 ### Supplementary material
-* The details about **computing an estimate of ground size** corresponding to a given pixel can be found [here](Supplementary/ICRA2022_supplementary_pixelSize.pdf). 
+* Details about **computing an estimate of the ground size** for a given pixel can be found [here](Supplementary/ICRA2022_supplementary_pixelSize.pdf).
+* A notebook to compute the $\beta$ safety coefficient for the 
 * **Full results** can be found [here](https://github.com/jorisguerin/ANITI_UavEmergencyLanding/blob/gh-pages/Supplementary/full_results.csv).
 
 ### Code
