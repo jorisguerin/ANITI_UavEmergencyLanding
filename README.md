@@ -1,5 +1,5 @@
 # ANITI UAV Emergency Landing
-#### Code and supplementary material for our RA-L + ICRA 2022 submission
+#### Code for our RA-L + ICRA 2022 submission entitled *Runtime Monitoring for UAV Urban Emergency Landing*
 
-## Supplementary Material
-* Full results can be found [here](https://github.com/jorisguerin/ANITI_UavEmergencyLanding/blob/main/Supplementary/full_results.csv).
+To appear soon...
+
