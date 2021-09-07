@@ -2,7 +2,7 @@
 
 ### Supplementary material
 * Details about computing an estimate of the ground size for a given pixel: [here](Supplementary/ICRA2022_supplementary_pixelSize.pdf).
-* A notebook to compute the safety coefficient for safety radius: [here](https://github.com/jorisguerin/ANITI_UavEmergencyLanding/blob/gh-pages/Supplementary/Beta_coef.ipynb).
+* A notebook to compute the safety coefficient for safety radius: [here](https://github.com/jorisguerin/ANITI_UavEmergencyLanding/blob/main/Supplementary/Beta_coef.ipynb).
 * Full results: [here](Supplementary/full_results.csv).
 
 ### Code
