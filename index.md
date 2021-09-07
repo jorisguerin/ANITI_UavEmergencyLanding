@@ -1,9 +1,18 @@
+This page presents all supplementary material associated 
+with our RA-L + ICRA 2022 submission entitled 
+*Runtime Monitoring for UAV Urban Emergency Landing*.
+
 ![Overview of the proposed approach](Images/overview_icra.png "Overview of the proposed approach")
 
-## Supplementary material
-
-* The details of how ground size corresponding to a given pixel is computed can be found [here](Supplementary/ICRA2022_supplementary_pixelSize.pdf). 
+### Supplementary material
+* The details about **computing an estimate of ground size** corresponding to a given pixel can be found [here](Supplementary/ICRA2022_supplementary_pixelSize.pdf). 
 * **Full results** can be found [here](https://github.com/jorisguerin/ANITI_UavEmergencyLanding/blob/gh-pages/Supplementary/full_results.csv).
 
-## 
-## Contact
+### Code
+The code for our approach can be found [here](https://github.com/jorisguerin/ANITI_UavEmergencyLanding/tree/main)
+
+### Contact
+[Joris GUERIN](https://jorisguerin.github.io/)  
+Laboratoire d'Analyse et d'Architecture des Systèmes (LAAS-CNRS)  
+7 avenue du Colonel Roche, 31031 TOULOUSE, FRANCE  
+**email**: jorisguerin.research@gmail.com
