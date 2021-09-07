@@ -1,7 +1,3 @@
-This page presents all supplementary material associated 
-with our RA-L + ICRA 2022 submission entitled 
-*Runtime Monitoring for UAV Urban Emergency Landing*.
-
 ![Overview of the proposed approach](Images/overview_icra.png "Overview of the proposed approach")
 
 ### Supplementary material
