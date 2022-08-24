@@ -13,3 +13,15 @@ The code used to generate our results: [here](https://github.com/jorisguerin/ANI
 Laboratoire d'Analyse et d'Architecture des Systèmes (LAAS-CNRS)  
 7 avenue du Colonel Roche, 31031 TOULOUSE, FRANCE  
 jorisguerin.research@gmail.com
+
+### Citing this work
+If you find this research useful, please consider citing 
+        
+    @inproceedings{guerin2022icra,
+    title={Evaluation of Runtime Monitoring for UAV Emergency Landing},
+    author={Guerin, Joris and Delmas, Kevin and Guiochet, Jérémie},
+    booktitle={2022 IEEE International Conference on Robotics and Automation (ICRA)},
+    pages={to appear},
+    year={2022},
+    organization={IEEE}
+    }
